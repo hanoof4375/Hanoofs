@@ -16,6 +16,7 @@ def get_filters():
     """
     
     print('Hello! Let\'s explore some US bikeshare data!')
+    print('\n\n')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     city = ''
     while city not in ['chicago', 'new york city', 'washington']:
@@ -58,7 +59,7 @@ def load_data(city, month, day):
     if month != 'all':
         df = df[df['Month'] == month]
     return df
-
+    
 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
