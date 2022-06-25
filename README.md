@@ -20,8 +20,7 @@ bikeshare.py
 
 ### Credits 
 -@SudKul (Udacity mentor)
+(https://github.com/udacity/pdsnd_github/commits?author=SudKul)
 
-[https://github.com/richardkalehoff https://twitter.com/richardkalehoff] (https://github.com/udacity/pdsnd_github/commits?author=SudKul)
-
-Special Thanks to the Udacity Team.
+Special Thanks to the Udacity.
 
