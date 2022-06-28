@@ -10,7 +10,15 @@ CITY_DATA = { 'chicago': 'data/chicago.csv', 'Chicago': 'data/chicago.csv',
 
 #Function to figure out the filtering requirements of the user
 def get_filters():
-    print('Hello! Let\'s explore some US bikeshare data!')
+        """
+    Asks user to specify a city, month, and day to analyze.
+    Returns:
+        (str) city - name of the city to analyze
+        (str) month - name of the month to filter by, or "all" to apply no month filter
+        (str) day - name of the day of week to filter by, or "all" to apply no day filter
+    """
+    
+    print('Hello! Let\'s explore some US bikeshare Information!')
     #Initializing an empty city variable to store city choice from user
     #You will see this repeat throughout the program
     city = ''
