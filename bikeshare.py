@@ -147,7 +147,7 @@ def main():
         user_stats(df)
         
 
-        restart = input('\nWould you like to Analyse again? Enter yes or no: ')
+        restart = input('\nWould you like to Restart the program? Enter yes or no: ')
         if restart.lower() != 'yes':
             break
         print('-'*40)
