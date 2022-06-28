@@ -14,13 +14,13 @@ Python File
 bikeshare.py 
 
 ### CSV Files
-[1] chicago.csv 
-[2] new_york_city.csv 
-[3] washington.csv
+[1] Chicago.csv 
+[2] Newyork_City.csv 
+[3] Washington.csv
 
 ### Credits 
 -@SudKul (Udacity mentor)
 (https://github.com/udacity/pdsnd_github/commits?author=SudKul)
 
-Special Thanks to the Udacity.
+Special Thanks to the Udacity Team.
 
